@@ -37,4 +37,4 @@ Eu criei este repositório para guardar e compartilhar os meus pacotes de textur
     3. Feche e reabra o aplicativo Minecraft, vá para as configurações, role para baixo até recursos globais, toque no pacote e clique em ativar.
 
 
-Por favor, seja honrado e dê os devidos creditos caso use comercialmente.
+Por favor, seja honrado e dê os devidos créditos caso use comercialmente.
