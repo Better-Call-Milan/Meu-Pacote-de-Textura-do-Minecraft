@@ -8,12 +8,12 @@ Eu criei este repositório para guardar e compartilhar os meus pacotes de textur
 
 #### 01 - Horas Digitais
 
-![Dia](https://imgur.com/aOWVE8I)
+![Dia](https://imgur.com/Qrr4SMm.png)
 Relógio durate o dia.
 
 <br>
 
-![Noite](https://imgur.com/5kRzS88)
+![Imgur](https://imgur.com/dWHUDkf.png)
 Relógio durate a noite.
 
 <br>
@@ -24,12 +24,12 @@ Relógio durate a noite.
 
 #### 02 - Moldura Invisível
 
-![Visível](https://imgur.com/n2xZd5Q)
+![Visível](https://imgur.com/cftUyHL.png)
 Sem textura.
 
 <br>
 
-![Invisível](https://imgur.com/og5G7R9)
+![Invisível](https://imgur.com/h5ZPDKB.png)
 Com textura.
 
 <br>
@@ -40,12 +40,12 @@ Com textura.
 
 #### 03 - Abóboras Confortáveis
 
-![Visível](https://imgur.com/xO6BJDV)
+![Visível](https://imgur.com/9JletSF.png)
 Abóbora padrão.
 
 <br>
 
-![Invisível](https://imgur.com/nM5SAJ3)
+![Invisível](https://imgur.com/dkRddkU.png)
 Abóbora com a Textura.
 
 <br>
@@ -54,7 +54,7 @@ Abóbora com a Textura.
 
 <br>
 
-#### Instalação para cada sistema operacional
+#### Instalação Para Cada Sistema Operacional
 
 ##### iOS:
 
@@ -89,3 +89,5 @@ Abóbora com a Textura.
     3. Feche e reabra o aplicativo Minecraft, vá para as configurações, role para baixo até recursos globais, toque no pacote e clique em ativar.
 
 Por favor, seja honrado e dê os devidos créditos caso use comercialmente.
+
+![]()
