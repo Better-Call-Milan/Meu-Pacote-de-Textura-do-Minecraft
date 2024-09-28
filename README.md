@@ -38,7 +38,7 @@ Com textura.
 
 <br>
 
-#### 02 - Abóboras Confortáveis
+#### 03 - Abóboras Confortáveis
 
 ![Visível](./.imgs/print5.png)
 Abóbora padrão.
