@@ -54,6 +54,48 @@ Abóbora com a Textura.
 
 <br>
 
+#### 04 - Minerador Atento
+
+![Overworld](https://imgur.com/5jpqfsk.png)
+Minérios destacados. (Overworld)
+
+<br>
+
+![Templo](https://imgur.com/TmjI5jd.png)
+Blocos suspeitos destacados. (Templo do Deserto)
+
+<br>
+
+![Ruínas](https://imgur.com/JyNX7t2.png)
+Blocos suspeitos destacados. (Ruínas)
+
+<br>
+
+![Nether](https://imgur.com/T5BuiVm.png)
+Minérios destacados. (Nether)
+
+<br>
+
+---
+
+<br>
+
+#### 05 - Horas Analógicas
+
+![Dia](https://imgur.com/jxcPNWB.png)
+Relógio durate o dia.
+
+<br>
+
+![Noite](https://imgur.com/foFBFkR.png)
+Relógio durate a noite.
+
+<br>
+
+---
+
+<br>
+
 #### Instalação Para Cada Sistema Operacional
 
 ##### iOS:
@@ -90,4 +132,4 @@ Abóbora com a Textura.
 
 Por favor, seja honrado e dê os devidos créditos caso use comercialmente.
 
-![]()
+
