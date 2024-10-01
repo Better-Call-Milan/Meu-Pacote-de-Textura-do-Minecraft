@@ -22,7 +22,7 @@ Relógio durate a noite.
 
 <br>
 
-#### 02 - Moldura Invisível
+### 02 - Moldura Invisível
 
 ![Visível](https://imgur.com/cftUyHL.png)
 Sem textura.
@@ -38,7 +38,7 @@ Com textura.
 
 <br>
 
-#### 03 - Abóboras Confortáveis
+### 03 - Abóboras Confortáveis
 
 ![Visível](https://imgur.com/9JletSF.png)
 Abóbora padrão.
@@ -54,7 +54,7 @@ Abóbora com a Textura.
 
 <br>
 
-#### 04 - Minerador Atento
+### 04 - Minerador Atento
 
 ![Overworld](https://imgur.com/5jpqfsk.png)
 Minérios destacados. (Overworld)
@@ -80,7 +80,7 @@ Minérios destacados. (Nether)
 
 <br>
 
-#### 05 - Horas Analógicas
+### 05 - Horas Analógicas
 
 ![Dia](https://imgur.com/jxcPNWB.png)
 Relógio durate o dia.
@@ -96,7 +96,7 @@ Relógio durate a noite.
 
 <br>
 
-#### Instalação Para Cada Sistema Operacional
+### Instalação Para Cada Sistema Operacional
 
 ##### iOS:
 
