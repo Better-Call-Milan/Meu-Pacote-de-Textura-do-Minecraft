@@ -1,6 +1,6 @@
-# Meus Pacotes de Textura do Minecraft
+# Meu Pacote de Textura do Minecraft
 
-Eu criei este repositório para guardar e compartilhar os meus pacotes de textura personalizados do Minecraft. Aqui você encontrará todos os tipos de texturas, entretanto eu pretendo dar uma atenção maior para as **texturas que aprimoram a experiência do jogo convencional. (Minecraft Vanilla)**
+Eu criei este repositório para guardar e compartilhar o meu pacote de texturas personalizadas do Minecraft. Aqui você encontrará todos os tipos de texturas, entretanto eu pretendo dar uma atenção maior para as **texturas que aprimoram a experiência do jogo convencional. (Minecraft Vanilla)**
 
 ---
 
