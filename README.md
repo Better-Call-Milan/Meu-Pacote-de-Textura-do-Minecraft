@@ -2,7 +2,7 @@
 
 Eu criei este repositório para guardar e compartilhar o meu pacote de texturas personalizadas do Minecraft. Aqui você encontrará todos os tipos de texturas, entretanto eu pretendo dar uma atenção maior para as **texturas que aprimoram a experiência do jogo convencional. (Minecraft Vanilla)**
 
-[Imgur](https://i.imgur.com/0uai7hs.png)
+![Imgur](https://i.imgur.com/0uai7hs.png)
 
 <br>
 
