@@ -2,11 +2,7 @@
 
 Eu criei este repositório para guardar e compartilhar o meu pacote de texturas personalizadas do Minecraft. Aqui você encontrará todos os tipos de texturas, entretanto eu pretendo dar uma atenção maior para as **texturas que aprimoram a experiência do jogo convencional. (Minecraft Vanilla)**
 
----
-
-### 01 - Horas Digitais
-
-![Dia](https://imgur.com/Qrr4SMm.png)
+![](https://imgur.com/a/0hxmyB8)
 Relógio durate o dia.
 
 <br>
